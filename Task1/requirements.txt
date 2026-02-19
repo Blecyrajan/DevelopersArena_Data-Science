@@ -1,1 +1,1 @@
-Google colab
+No external dependencies required
